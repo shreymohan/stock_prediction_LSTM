@@ -1,0 +1,10 @@
+tabulate
+argparse
+certifi
+json
+urllib
+pandas
+numpy 
+sklearn
+tensorflow
+plotly
