@@ -13,6 +13,7 @@ Install dependencies for the project by running command: pip3 install -r require
 python3 stock_prediction.py --index INDEX_NAME --model_dir /path/to/model/dir
 
 INDEX_NAME: index name. 5 options: sp500, dow, nasdaq, etf and top10
+
 /path/to/model/dir: directory path for the saved models
 
 2. Now run the code to visualize predictions in a table and a bollinger chart:
