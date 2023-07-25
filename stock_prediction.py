@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 import tensorflow as tf
 
 
-API_KEY='ff170cfbc214454f0a10844eb6e9606e' #put the API key here
+API_KEY='' #put the API key here
 N_steps = 365
 
 #INDEX='dowjones' #sp500 nasdaq
